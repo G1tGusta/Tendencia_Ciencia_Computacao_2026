@@ -114,4 +114,4 @@ Este repositório servirá como um portfólio da disciplina, registrando minha e
 
 ---
 
-> *"A tecnologia evolui constantemente. Aprender a utilizá-la de forma ética, criativa e eficiente é o diferencial do profissional de computação do futuro."*
+> *"A tecnologia evolui constantemente. Aprender a utilizá-la de forma ética, criativa e eficiente é o diferencial do profissional de computação do futuro"*
